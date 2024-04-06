@@ -3,7 +3,7 @@
 
 
 
-#changes required in the file -
+#changes required in the src folder -
 
 LLaMA-Factory/data/identity.json  :-  add your dataset path in the this file
 
